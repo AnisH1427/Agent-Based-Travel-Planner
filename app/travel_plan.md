@@ -1,253 +1,198 @@
-User Input: I want to go snow region.
+User Input: visit some snow falling mountain areas
 
 Research Results:
-8 Affordable Winter Travel Destinations You Need to See in 2025: Québec City, Canada – A European Winter Wonderland Without the Price Tag · Puerto Rico – A Cheap Warm Place to Visit in December · Lake Tahoe,
-Top 20 Best Winter Destinations for 2024/2025 - Stippl: Whether you're looking to ski in the Alps or enjoy a festive European city, here are the 20 best winter destinations for 2024/2025, complete with must-do
-Best Destinations to Travel in 2025 - Lonely Planet: Experience guides offer travelers innovative ways to discover iconic destinations, featuring unique adventures and trip-building tools for personalized journeys.Language Guides For travelers looking to immerse themselves in local culture and language essentials. Pocket Guides are compact guides for short trips that offer the best local experiences.Maps Durable and waterproof, with a handy slipcase and an easy-fold format, Lonely Planet's country maps are designed to let you explore with ease. Discover the top countries, regions and cities around the world, chosen by our well-traveled team. Travelers now have an affordable, efficient and sustainable way to traverse the region's best, yet relatively unseen, cultural and natural wonders and ancient cities.
-25 Amazingly Cheap Places You Should Travel To In 2025: For the price of a single restaurant meal in, say, London or New York, you could be covering a whole day’s worth of traveling in cheap countries like Indonesia, Vietnam, Mexico, or Morocco — to name just a few. Colombia is an *amazing* country to travel (and no, these days it’s luckily nothing at all like Netflix’ *Narcos*, a show that is set over 50 years ago!). By far, the cheapest place I’ve travelled to has been Vietnam and now I have a new list of budget destinations to go to! Thailand, Vietnam, and Morocco are going to be in any list of cheap travel destinations……I have been to these places and I can’t forget the wonderful experiences I had…..some countries with unique cultures, amazing nature and exceptional food (very cheap yet delicious)
-Best Winter Destinations in Europe on a Budget: We share the perks of traveling during this time and the best winter destinations in Europe on a budget, whether you're after sunny beaches or cozy snowy towns.
+The Best Ski Resorts in US & Canada: 2024 Readers' Choice Awards: But recent resort investments, including a revitalized base area with an ice-skating rink, upgraded snowmaking and grooming, and improvements to beginner and intermediate terrain have made this New Mexico mountain destination way more family friendly. On-mountain, there are nearly 3,000 skiable acres spread across the resort’s Five Peaks, and some of the country’s best lift-accessible high-alpine terrain, including the highest chairlift in North America. Where to Stay: Ski-in/ski-out Sunshine Mountain Lodge is the resort’s only hotel, and offers great value. Part of Omni Mount Washington Resort, Bretton Woods touts the largest ski area in New Hampshire with 464 acres of skiable terrain, including a terrain park and a summit elevation of 3,100 feet, all surrounded by the woods of the White Mountain National Forest.
+What US ski resort (other than alta/bird has the best snow - Reddit: Grand Targhee is the answer! Basically gets as much snow as LCC and it's just as dry. The Tetons are also an S-Tier snow trap. Not to mention
+Best Ski Resorts in the US and Canada - PeakRankings: #1 Overall. Whistler Blackcomb. Whistler, BC ; #2 Overall. Jackson Hole. Teton Village, WY ; #3 Overall. Alta. Alta, UT ; #4 Overall. Snowbird. Snowbird, UT ; #5
+Where to Ski | The 25 Best Ski Resorts in the World 2025: While not all the ski areas are linked by lift, there’s a vast amount of terrain on offer locally, and the Dolomiti Superski Pass gives you access to dozens of resorts and 1,200km of slopes—more than any other day or week-long pass in the world. While the off-piste in the Madonna ski area isn't world-class, the nearby resort of Passo Tonale, which can be accessed on the same Superskirama ski pass, boasts some of Italy's best lift-accessible backcountry. While you're there, make sure you take a day to ski in nearby Silverton, a single-lift, guide-access only mountain that's one of the best resorts for backcountry skiing anywhere in the world.
+Top 30 Ski Resorts in the West (2023) | SKI - Ski Magazine: The rankings are live! See where your favorite Western resorts landed in the 2023 SKI Magazine Resort Guide.
 
 Budget Estimate:
-Okay, I'll analyze the provided information and create estimated cost breakdowns for potential winter travel destinations in 2025, considering flights, accommodation, food, and activities.  I'll focus on destinations mentioned across multiple sources as being affordable.
+Okay, I can help you estimate the costs for ski trips to some of the resorts mentioned, considering flights, accommodation, food, and activities.  I'll break it down by resort and provide a range of costs, acknowledging that prices fluctuate significantly based on the time of year (peak vs. off-peak), booking lead time, and your travel style (budget vs. luxury).
 
-**General Assumptions:**
+**Assumptions:**
 
-*   **Travel Dates:** I'll assume a 7-day trip during the winter months (December 2024 - February 2025).
-*   **Traveler Profile:**  Budget-conscious traveler, solo or couple, looking for good value.
-*   **Currency:** USD (United States Dollar)
-*   **Flights:** Round-trip economy class flights. Prices are highly variable and depend on origin, booking time, and airline. I'll provide a range based on general trends.
-*   **Accommodation:**  Mix of budget-friendly hotels, guesthouses, or Airbnb options.
-*   **Food:**  Eating at local restaurants, street food, and occasional grocery store purchases.
-*   **Activities:**  Mix of free activities (hiking, exploring) and paid attractions (museums, tours).
-*   **Estimates:** These are *estimates* and can vary significantly.  It's crucial to research current prices closer to your travel dates.
+*   **Trip Duration:** 7 days/6 nights.
+*   **Travelers:** 2 adults.
+*   **Currency:** USD.
+*   **Flights:** Round-trip economy flights from a major US hub (e.g., New York, Chicago, Los Angeles).  Flight costs are highly variable.
+*   **Accommodation:** Mid-range hotel or condo rental.
+*   **Food:** A mix of cooking some meals and eating out.
+*   **Activities:** Lift tickets for 5 days, plus some allowance for other activities.
+*   **Season:** Peak season (January/February) will be the high end of the range, shoulder season (early December, late March) will be lower.
+*   **Exclusions:**  Ski rentals, lessons, transportation to/from the airport, souvenirs, and incidentals.
 
-**Destinations and Estimated Costs (per person, for 7 days):**
+**Resort Cost Estimates:**
 
-**1. Vietnam (Hanoi/Ho Chi Minh City):**
+**1. Taos Ski Valley, New Mexico:**
 
-*   **Flights:** $800 - $1200 (from North America/Europe)
-*   **Accommodation:** $15 - $30 per night = $105 - $210
-*   **Food:** $10 - $20 per day = $70 - $140
-*   **Activities:** $5 - $15 per day = $35 - $105
-*   **Total Estimated Cost:** $1010 - $1655
+*   **Flights:** $600 - $1200 (flying into Albuquerque (ABQ) and driving, or flying into Taos Regional Airport (TSM) which will be more expensive).
+*   **Accommodation:** $1200 - $3000 (mid-range hotel or condo).
+*   **Food:** $700 - $1400.
+*   **Lift Tickets (5 days):** $750 - $1000 (estimate based on daily rates).
+*   **Activities (Ice Skating, etc.):** $100 - $300.
+*   **Total Estimated Cost:** $3350 - $6900
 
-**Notes:** Vietnam is consistently mentioned as a very affordable destination.  Food and accommodation are incredibly cheap.  Internal transportation (buses, trains) is also budget-friendly.
+**2. Bretton Woods, New Hampshire:**
 
-**2. Morocco (Marrakech/Fez):**
+*   **Flights:** $400 - $900 (flying into Manchester-Boston Regional Airport (MHT) is likely the closest major airport).
+*   **Accommodation:** $1000 - $2500 (hotel or condo).
+*   **Food:** $600 - $1200.
+*   **Lift Tickets (5 days):** $500 - $750 (estimate based on daily rates).
+*   **Activities (other winter activities):** $100 - $300.
+*   **Total Estimated Cost:** $2600 - $5650
 
-*   **Flights:** $700 - $1100 (from North America/Europe)
-*   **Accommodation:** $20 - $40 per night = $140 - $280 (Riads can be a good value)
-*   **Food:** $15 - $25 per day = $105 - $175
-*   **Activities:** $10 - $20 per day = $70 - $140
-*   **Total Estimated Cost:** $1015 - $1695
+**3. Grand Targhee, Wyoming:**
 
-**Notes:** Morocco offers a unique cultural experience at a reasonable price.  Bargaining is common in markets.
+*   **Flights:** $600 - $1200 (flying into Jackson Hole (JAC) is closest, but potentially expensive.  Consider Idaho Falls (IDA) and driving).
+*   **Accommodation:** $1500 - $4000 (hotel or condo in Teton Valley, ID, or Teton Village, WY).
+*   **Food:** $800 - $1600.
+*   **Lift Tickets (5 days):** $650 - $900 (estimate based on daily rates).
+*   **Activities (snowshoeing, etc.):** $100 - $300.
+*   **Total Estimated Cost:** $3650 - $8000
 
-**3. Colombia (Medellin/Bogota):**
+**4. Jackson Hole, Wyoming:**
 
-*   **Flights:** $500 - $900 (from North America)
-*   **Accommodation:** $20 - $40 per night = $140 - $280
-*   **Food:** $15 - $25 per day = $105 - $175
-*   **Activities:** $10 - $20 per day = $70 - $140
-*   **Total Estimated Cost:** $815 - $1495
+*   **Flights:** $600 - $1200 (flying into Jackson Hole (JAC)).
+*   **Accommodation:** $2000 - $6000 (hotel or condo in Teton Village).
+*   **Food:** $1000 - $2000.
+*   **Lift Tickets (5 days):** $750 - $1000 (estimate based on daily rates).
+*   **Activities (snowshoeing, etc.):** $100 - $300.
+*   **Total Estimated Cost:** $4450 - $10500
 
-**Notes:** Colombia is gaining popularity and is still relatively affordable.  Internal flights are a good way to get around.
+**5. Whistler Blackcomb, British Columbia, Canada:**
 
-**4. Mexico (Oaxaca/Mexico City):**
+*   **Flights:** $500 - $1000 (flying into Vancouver International Airport (YVR)).
+*   **Accommodation:** $1500 - $5000 (hotel or condo in Whistler Village).
+*   **Food:** $800 - $1600.
+*   **Lift Tickets (5 days):** $800 - $1200 (estimate based on daily rates, converted to USD).
+*   **Activities (snowshoeing, village activities):** $100 - $300.
+*   **Total Estimated Cost:** $3700 - $9100
 
-*   **Flights:** $300 - $700 (from North America)
-*   **Accommodation:** $20 - $40 per night = $140 - $280
-*   **Food:** $15 - $25 per day = $105 - $175
-*   **Activities:** $10 - $20 per day = $70 - $140
-*   **Total Estimated Cost:** $615 - $1295
+**6. Silverton Mountain, Colorado:**
 
-**Notes:** Mexico is a classic budget destination, especially outside of the major resort areas.
-
-**5. Thailand (Chiang Mai/Bangkok):**
-
-*   **Flights:** $800 - $1200 (from North America/Europe)
-*   **Accommodation:** $15 - $30 per night = $105 - $210
-*   **Food:** $10 - $20 per day = $70 - $140
-*   **Activities:** $5 - $15 per day = $35 - $105
-*   **Total Estimated Cost:** $1010 - $1655
-
-**Notes:** Similar to Vietnam, Thailand offers excellent value for money.
-
-**6. Puerto Rico (San Juan):**
-
-*   **Flights:** $200 - $500 (from North America)
-*   **Accommodation:** $75 - $150 per night = $525 - $1050
-*   **Food:** $30 - $50 per day = $210 - $350
-*   **Activities:** $20 - $40 per day = $140 - $280
-*   **Total Estimated Cost:** $1075 - $2180
-
-**Notes:** Puerto Rico is more expensive than the other destinations listed, especially for accommodation. However, the flights are generally cheaper.
-
-**7. Quebec City, Canada:**
-
-*   **Flights:** $200 - $600 (from North America)
-*   **Accommodation:** $75 - $150 per night = $525 - $1050
-*   **Food:** $30 - $50 per day = $210 - $350
-*   **Activities:** $20 - $40 per day = $140 - $280
-*   **Total Estimated Cost:** $1075 - $2280
-
-**Notes:** Quebec City is more expensive than the other destinations listed, especially for accommodation. However, the flights are generally cheaper.
+*   **Flights:** $400 - $900 (flying into Durango-La Plata County Airport (DRO) or Montrose Regional Airport (MTJ)).
+*   **Accommodation:** $800 - $2000 (lodging in Silverton or nearby towns).
+*   **Food:** $500 - $1000.
+*   **Guided Skiing (5 days):** $1250 - $1750 (estimate based on daily rates).
+*   **Activities (snowshoeing, etc.):** $100 - $300.
+*   **Total Estimated Cost:** $3050 - $5950
 
 **Important Considerations:**
 
-*   **Booking in Advance:** Booking flights and accommodation well in advance (3-6 months) can often save you money.
-*   **Travel Insurance:**  Don't forget to factor in the cost of travel insurance.
-*   **Visa Requirements:** Check visa requirements for your nationality before booking.
-*   **Local Transportation:**  Research local transportation options (buses, trains, subways) to save on taxi fares.
-*   **Off-Season Travel:** Traveling during the shoulder season (slightly before or after peak season) can sometimes offer better deals.
-*   **Flexibility:** Being flexible with your travel dates and destination can help you find cheaper flights and accommodation.
-*   **Activities:** Look for free activities like hiking, exploring parks, and visiting local markets.
-*   **Food:** Eating at local restaurants and street food stalls is generally much cheaper than eating at tourist-oriented restaurants.
-*   **Currency Exchange:** Get the best exchange rate for your money.
+*   **Lift Ticket Prices:**  These are estimates.  Check the resort's website for current pricing and consider purchasing lift tickets in advance for potential discounts.  Multi-day passes can often save money.
+*   **Accommodation Deals:** Look for package deals that combine lodging and lift tickets.
+*   **Food Costs:**  Cooking some meals in your condo or hotel room can significantly reduce food expenses.
+*   **Transportation:**  Factor in the cost of renting a car or using shuttle services to get to and from the airport and around the resort area.
+*   **Travel Insurance:**  Consider purchasing travel insurance to protect against unforeseen circumstances.
+*   **Flexibility:**  Traveling during the shoulder season or being flexible with your travel dates can often result in significant savings.
 
-**Disclaimer:** These are rough estimates. Actual costs may vary. Always do your own research and compare prices before booking.
+**Disclaimer:** These are just estimates. Actual costs may vary. It's always best to research and book your trip well in advance to get the best deals.
 
 Final Plan:
-Okay, based on the research and budget considerations, I'll create a detailed 7-day itinerary for **Vietnam (Hanoi/Ha Long Bay)**, as it consistently appears as a top affordable destination with diverse experiences.  This itinerary focuses on maximizing cultural immersion and minimizing costs.
+Okay, let's craft a detailed 7-day ski trip itinerary, focusing on **Grand Targhee, Wyoming**, given its reputation for excellent snow and the budget considerations.  I'll aim for a balance of skiing, relaxation, and local experiences.
 
-**Destination:** Vietnam (Hanoi & Ha Long Bay)
+**Trip Focus:** Grand Targhee, Wyoming (with potential day trip to Jackson Hole)
 
-**Theme:** Cultural Immersion & Natural Beauty on a Budget
+**Travelers:** 2 Adults
 
-**Budget:** Aiming for the lower end of the estimated range ($1010 - $1655 per person)
+**Budget:** Aiming for the mid-range of the estimated cost ($3650 - $8000), so let's target around $6000.
 
 **Itinerary:**
 
-**Day 1: Arrival in Hanoi & Old Quarter Exploration**
+**Day 1: Arrival in Jackson Hole & Transfer to Teton Valley (Driggs, ID)**
 
-*   **Morning:**
-    *   Arrive at Noi Bai International Airport (HAN) in Hanoi.
-    *   **Transportation:** Take the Airport Bus #86 (approx. 35,000 VND / $1.50 USD) to the Hanoi Old Quarter.  This is the cheapest and most reliable option.  Avoid unofficial taxis.
-    *   **Accommodation:** Check into your pre-booked budget-friendly hotel or guesthouse in the Old Quarter.  (e.g., Hanoi Backpackers' Hostel, Little Hanoi Diamond Hotel - check reviews and book in advance).
-*   **Afternoon:**
-    *   **Lunch:** Enjoy a delicious and cheap *Pho* (noodle soup) at a local street food stall (approx. 30,000 VND / $1.30 USD).
-    *   **Explore the Old Quarter:** Wander through the narrow, bustling streets, each traditionally dedicated to a specific trade (silk, paper, etc.).  Soak in the atmosphere.
-    *   **Hoan Kiem Lake & Ngoc Son Temple:** Visit the iconic lake and temple (small entrance fee).  Enjoy the peaceful setting.
-*   **Evening:**
-    *   **Water Puppet Show:** Attend a traditional Water Puppet Show at Thang Long Water Puppet Theatre (book tickets in advance - approx. 100,000 VND / $4.30 USD).
-    *   **Dinner:** Try *Bun Cha* (grilled pork with noodles) at a local restaurant (approx. 40,000 VND / $1.70 USD).  Obama ate here!
-    *   **Night Market (Weekend Only):** If it's a Friday, Saturday, or Sunday, explore the vibrant night market for souvenirs and street food.
+*   **Morning:** Fly into Jackson Hole Airport (JAC).  This is the most convenient airport, but flights can be expensive.  Consider flying into Idaho Falls (IDA) if you find a significantly cheaper flight, but factor in a longer drive (approx. 2 hours).
+*   **Transportation:**
+    *   **Option 1 (Rental Car):**  Rent a 4WD vehicle at JAC.  Essential for winter driving in this region.  Book in advance!
+    *   **Option 2 (Shuttle):**  Pre-book a shuttle service from JAC to Teton Valley (Driggs or Victor, ID).  Companies like Teton Mountain Taxi or Alltrans offer this service.  This is a good option if you don't want to drive in winter conditions.
+*   **Accommodation:** Check into your pre-booked condo or hotel in Driggs or Victor, Idaho.  These towns are more affordable than staying directly at Teton Village/Jackson Hole.  Consider Teton Springs Lodge & Spa in Victor or a condo rental through Airbnb or VRBO.
+*   **Afternoon:** Settle in, unpack, and explore Driggs or Victor.  Pick up groceries at a local supermarket (e.g., Broulim's in Driggs) to save on food costs.
+*   **Evening:** Dinner at a local restaurant in Driggs.  Try Teton Thai for excellent Thai food or Grand Teton Brewing for pub fare.
 
-**Day 2: Hanoi's History & Culture**
+**Day 2: Grand Targhee - Powder Day!**
 
-*   **Morning:**
-    *   **Ho Chi Minh Mausoleum & Museum:** Visit the Ho Chi Minh Mausoleum (dress respectfully - shoulders and knees covered) and the Ho Chi Minh Museum (entrance fee).  Allow ample time.
-    *   **Presidential Palace & Ho Chi Minh's Stilt House:** Explore the grounds of the Presidential Palace and see Ho Chi Minh's humble stilt house.
-*   **Afternoon:**
-    *   **Temple of Literature:** Visit Vietnam's first university, a beautiful and peaceful complex.
-    *   **Lunch:** Enjoy *Banh Mi* (Vietnamese sandwich) from a street vendor (approx. 20,000 VND / $0.85 USD).
-*   **Evening:**
-    *   **Train Street:**  (Check if open - sometimes closed due to safety concerns).  Have a coffee at a cafe along the Train Street and watch the train pass by (very close!).
-    *   **Dinner:** Try *Cha Ca La Vong* (turmeric fish) – a Hanoi specialty (more expensive, but worth trying once - approx. 150,000 VND / $6.50 USD).
+*   **Morning:** Drive to Grand Targhee Resort (approx. 45-minute drive from Driggs).  Arrive early to get a good parking spot and beat the crowds.
+*   **Activity:** Ski or snowboard at Grand Targhee all day!  Explore the resort's terrain, known for its consistent snowfall and uncrowded slopes.  Take advantage of the free mountain tours offered by the resort to get oriented.
+*   **Lunch:** Grab a quick and affordable lunch at the Branding Iron Grill at the base of the mountain.
+*   **Afternoon:** Continue skiing/snowboarding.  Consider taking a run down Mary's Nipple for a challenging experience.
+*   **Evening:** Après-ski at the Trap Bar & Grill at Grand Targhee.  Enjoy live music and local beers.  Drive back to Driggs/Victor for dinner.  Consider cooking a meal in your condo to save money.
 
-**Day 3: Ha Long Bay Cruise (Day Trip or Overnight)**
+**Day 3: Grand Targhee - Exploring the Mountain**
 
-*   **Option 1: Day Trip:**
-    *   **Early Morning:** Book a day trip to Ha Long Bay from Hanoi (many tour operators in the Old Quarter).  Negotiate the price (approx. $40 - $60 USD including transportation, lunch, and activities).
-    *   **Ha Long Bay:** Cruise through the stunning limestone karsts, kayak in the bay, and visit a cave.
-    *   **Evening:** Return to Hanoi.  Dinner at a local restaurant.
-*   **Option 2: Overnight Cruise (Recommended):**
-    *   **Morning:** Book an overnight cruise to Ha Long Bay (slightly more expensive, but worth it for the experience - approx. $80 - $120 USD including transportation, meals, and activities).
-    *   **Ha Long Bay:** Cruise, kayak, swim, and enjoy the sunset over the bay.
-    *   **Evening:** Enjoy dinner on board the cruise.
+*   **Morning:** Another day at Grand Targhee! Focus on areas you didn't explore yesterday.
+*   **Activity:** Consider a snowshoeing excursion. Grand Targhee offers guided snowshoe tours or you can rent snowshoes and explore on your own.
+*   **Lunch:** Pack a lunch to save money and enjoy it on the mountain.
+*   **Afternoon:** More skiing/snowboarding.
+*   **Evening:** Relax at your accommodation. Consider a soak in a hot tub if your accommodation has one. Dinner at a local restaurant in Victor. Try the Knotty Pine Supper Club for a classic Western dining experience.
 
-**Day 4: Ha Long Bay & Return to Hanoi**
+**Day 4: Jackson Hole Day Trip**
 
-*   **Morning (If Overnight Cruise):**
-    *   **Ha Long Bay:** Enjoy the sunrise over the bay, participate in morning activities (e.g., Tai Chi), and have breakfast on board.
-    *   **Return to Hanoi:**  Travel back to Hanoi in the afternoon.
-*   **Afternoon:**
-    *   **Relax:** Check back into your Hanoi hotel.  Relax and freshen up.
-    *   **Shopping:**  Browse the shops in the Old Quarter for souvenirs (practice your bargaining skills!).
-*   **Evening:**
-    *   **Cooking Class (Optional):** Take a Vietnamese cooking class and learn to prepare local dishes (approx. $25 - $40 USD).
-    *   **Dinner:** Enjoy a final Vietnamese meal in Hanoi.
+*   **Morning:** Drive to Jackson Hole (approx. 1-hour drive from Driggs).
+*   **Activity:** Explore the town of Jackson.  Walk around Town Square, take a photo under the elk antler arches, and browse the shops.
+*   **Lunch:** Have lunch in Jackson.  Try Persephone Bakery for delicious sandwiches and pastries or Snake River Brewing for pub fare.
+*   **Afternoon:** Ski/Snowboard at Jackson Hole Mountain Resort.  This is a more challenging mountain than Grand Targhee, so be prepared.  Alternatively, if you're not up for skiing, take the aerial tram to the top of Rendezvous Mountain for stunning views.
+*   **Evening:** Dinner in Jackson.  Consider The Mangy Moose in Teton Village for a lively atmosphere or Local Restaurant & Bar for a more upscale experience. Drive back to Driggs/Victor.
 
-**Day 5: Ninh Binh (Tam Coc/Trang An) - "Ha Long Bay on Land"**
+**Day 5: Grand Targhee - Backcountry Experience (Optional)**
 
-*   **Morning:**
-    *   **Transportation:** Take a bus or train from Hanoi to Ninh Binh (approx. 2-3 hours). Buses are generally cheaper.
-    *   **Accommodation:** Check into a guesthouse or homestay in Tam Coc or Trang An (Ninh Binh).
-*   **Afternoon:**
-    *   **Tam Coc Boat Trip:** Take a boat trip through the rice paddies and caves of Tam Coc (approx. 150,000 VND / $6.50 USD per boat - can be shared).
-    *   **Bich Dong Pagoda:** Visit the Bich Dong Pagoda, a series of temples built into the mountainside.
-*   **Evening:**
-    *   **Dinner:** Enjoy local specialties like goat meat at a restaurant in Tam Coc.
+*   **Morning:**  If you're an experienced skier/snowboarder, consider a guided backcountry tour with a local outfitter.  This is a great way to experience the untouched powder of the Tetons.  Book in advance!  (This will add to the cost of the trip).
+*   **Alternative:** If backcountry skiing isn't your thing, enjoy another day of skiing/snowboarding at Grand Targhee.
+*   **Lunch:** Pack a lunch.
+*   **Afternoon:** More skiing/snowboarding.
+*   **Evening:** Relax and enjoy a quiet evening in Driggs/Victor.  Consider a movie night at your accommodation.
 
-**Day 6: Trang An & Bai Dinh Pagoda**
+**Day 6: Relaxation & Local Culture**
 
-*   **Morning:**
-    *   **Trang An Boat Trip:** Take a boat trip through the Trang An Scenic Landscape Complex (a UNESCO World Heritage Site).  This is a longer and more scenic boat trip than Tam Coc.
-    *   **Bai Dinh Pagoda:** Visit the Bai Dinh Pagoda, one of the largest Buddhist complexes in Southeast Asia.
-*   **Afternoon:**
-    *   **Mua Cave:** Climb to the top of Mua Cave for panoramic views of the Tam Coc area.
-*   **Evening:**
-    *   **Return to Hanoi:** Take a bus or train back to Hanoi.
-    *   **Farewell Dinner:** Enjoy a final Vietnamese meal in Hanoi.
+*   **Morning:** Sleep in! Enjoy a leisurely breakfast.
+*   **Activity:** Visit the Teton Geotourism Center in Driggs to learn about the region's natural and cultural history.
+*   **Lunch:** Have lunch at a local cafe in Driggs.
+*   **Afternoon:** Visit the Spud Drive-In Theatre (if open - check seasonal availability).  This classic drive-in is a fun and unique experience.
+*   **Evening:** Farewell dinner at a nice restaurant in Driggs or Victor.  Consider Forage Bistro & Lounge for a fine dining experience.
 
 **Day 7: Departure**
 
-*   **Morning:**
-    *   **Breakfast:** Enjoy a final *Pho* or *Banh Mi*.
-    *   **Last-Minute Souvenirs:** Pick up any last-minute souvenirs.
-    *   **Transportation:** Take the Airport Bus #86 back to Noi Bai International Airport (HAN) for your departure.
-
-**Accommodation Tips:**
-
-*   **Book in Advance:** Especially during peak season (winter), book your accommodation in advance.
-*   **Read Reviews:** Check reviews on Booking.com, Agoda, or TripAdvisor.
-*   **Consider Hostels:** Hostels are a great option for solo travelers on a budget.
-*   **Homestays:** In Ninh Binh, consider staying in a homestay for a more authentic experience.
-
-**Transportation Tips:**
-
-*   **Airport Bus:** The Airport Bus #86 is the cheapest and most reliable way to get to and from the airport.
-*   **Local Buses:** Local buses are a cheap way to get around Hanoi, but they can be crowded and confusing.
-*   **Taxis/Grab:** Use Grab (Southeast Asia's Uber) for taxis.  Make sure the meter is running or agree on a price beforehand.
-*   **Walking:** Hanoi's Old Quarter is best explored on foot.
-*   **Trains/Buses:** Use trains or buses for longer distances (e.g., Hanoi to Ninh Binh).
+*   **Morning:** Enjoy a final breakfast in Teton Valley.
+*   **Transportation:** Drive back to Jackson Hole Airport (JAC) or Idaho Falls Airport (IDA) for your flight home.  Allow plenty of time for travel, especially if driving in winter conditions.
 
 **Food & Local Experiences:**
 
-*   **Street Food:** Embrace the street food! It's delicious, cheap, and a great way to experience Vietnamese culture.
-*   **Pho:** Try different variations of *Pho* (beef, chicken, vegetarian).
-*   **Banh Mi:** A must-try Vietnamese sandwich.
-*   **Bun Cha:** Grilled pork with noodles.
-*   **Cha Ca La Vong:** Turmeric fish (Hanoi specialty).
-*   **Vietnamese Coffee:** Try *Ca Phe Sua Da* (iced coffee with condensed milk).
-*   **Learn a Few Phrases:** Learning a few basic Vietnamese phrases will be appreciated by locals.
+*   **Local Beers:** Sample local craft beers at Grand Teton Brewing or Snake River Brewing.
+*   **Huckleberry Products:** Try huckleberry jam, pie, or ice cream – a local specialty.
+*   **Western Cuisine:** Enjoy classic Western dishes like bison burgers or elk steaks.
+*   **Farmers Markets (Seasonal):** If your trip is during the summer or fall, visit the local farmers markets for fresh produce and local crafts.
+
+**Accommodation Tips:**
+
+*   **Driggs or Victor, ID:** These towns offer more affordable accommodation options than staying directly at Teton Village/Jackson Hole.
+*   **Condo Rentals:** Consider renting a condo through Airbnb or VRBO to save on food costs by cooking some meals.
+*   **Book in Advance:** Book your accommodation well in advance, especially if traveling during peak season.
+
+**Transportation Tips:**
+
+*   **4WD Rental Car:** Essential for winter driving in this region.
+*   **Shuttle Services:** A good option if you don't want to drive in winter conditions.
+*   **Check Road Conditions:** Before driving, check road conditions on the Wyoming Department of Transportation website (wyoroad.info) or the Idaho Transportation Department website (511.idaho.gov).
 
 **Travel Tips & Warnings:**
 
-*   **Bargaining:** Bargaining is expected in markets and some shops.
-*   **Scams:** Be aware of common scams, such as overcharging for taxis or cyclo rides.
-*   **Traffic:** Hanoi's traffic can be chaotic. Be careful when crossing the street.
-*   **Water:** Drink bottled water only.
-*   **Mosquitoes:** Use mosquito repellent, especially in Ha Long Bay and Ninh Binh.
-*   **Visa:** Check visa requirements for your nationality.
-*   **Travel Insurance:** Purchase travel insurance before your trip.
-*   **Respectful Dress:** Dress respectfully when visiting temples and religious sites (shoulders and knees covered).
-*   **SIM Card:** Buy a local SIM card for easy access to data and calls.
+*   **Altitude:** Jackson Hole and Grand Targhee are at high altitudes.  Drink plenty of water and avoid strenuous activity on your first day to acclimatize.
+*   **Winter Weather:** Be prepared for cold temperatures, snow, and ice.  Pack warm clothing, including layers, hats, gloves, and scarves.
+*   **Sun Protection:** The sun is strong at high altitudes.  Wear sunscreen, sunglasses, and a hat.
+*   **Wildlife:** Be aware of wildlife, such as elk and moose.  Keep a safe distance and do not feed them.
+*   **Cell Service:** Cell service can be spotty in some areas.  Download offline maps and directions before you go.
+*   **Book in Advance:** Book flights, accommodation, and activities well in advance, especially if traveling during peak season.
+*   **Travel Insurance:** Consider purchasing travel insurance to protect against unforeseen circumstances.
 
-**Estimated Cost Breakdown (per person):**
+**Budget Breakdown (Estimated):**
 
-*   **Flights:** $800 - $1200 (depending on origin and booking time)
-*   **Accommodation (7 nights):** $105 - $210 (averaging $15-$30/night)
-*   **Food (7 days):** $70 - $140 (averaging $10-$20/day)
-*   **Activities & Entrance Fees:** $100 - $200 (including Ha Long Bay cruise, Water Puppet Show, temples, etc.)
-*   **Transportation (Local & Intercity):** $50 - $100
-*   **Total Estimated Cost:** $1125 - $1850
+*   **Flights:** $1000
+*   **Accommodation:** $2000
+*   **Food:** $1000
+*   **Lift Tickets (5 days):** $800
+*   **Rental Car:** $700
+*   **Activities:** $500
 
-**Important Notes:**
+**Total: $6000**
 
-*   This is a budget-focused itinerary. You can adjust it to your preferences and budget.
-*   Prices are estimates and can vary.
-*   Book flights and accommodation in advance for the best deals.
-*   Be flexible and open to new experiences!
-
-This itinerary provides a solid framework for an affordable and memorable winter trip to Vietnam. Enjoy your travels!
+This itinerary provides a framework for your 7-day ski trip to Grand Targhee and Jackson Hole. You can customize it to fit your interests and budget. Remember to book in advance and be prepared for winter weather conditions. Enjoy your trip!

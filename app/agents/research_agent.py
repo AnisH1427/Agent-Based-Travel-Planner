@@ -11,16 +11,10 @@ def research_agent(state):
     query_prompt = f"""
     You are a travel research expert. The user wants to plan a trip and provided this request:
     "{user_input}"
-    Generate a specific, actionable web search query to find:
-    - Top destinations
-    - Best times to visit
-    - Must-see attractions
-    - Typical costs
-    - Travel tips
-    Make the query clear and focused for a web search engine. Example: 'Best places to visit in USA in winter, top attractions, travel tips, average costs.'
+    Generate only one precise and optimized search query that is clear, focused, and suitable for a web search engine. Do not include any additional explanations or multiple options.
     """
     search_query = llm.invoke(query_prompt).content.strip()
-    # print(f"[ResearchAgent] Generated search query: {search_query}")
+    print(f"[ResearchAgent] Generated search query: {search_query}")
 
     # Use the search tool to get results
     search_result = search_tool(search_query)

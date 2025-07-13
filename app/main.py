@@ -42,11 +42,11 @@ if __name__ == "__main__":
     user_input = input("What kind of trip would you like to plan?\nYour answer: ")
     result = app.invoke({"user_input": user_input, "current_step": "research"})
 
-    print("\n==== Travel Planner Results ====")
-    print("\n[Research Results]\n", result.get("research_data", "No research data found."))
-    print("\n[Budget Estimate]\n", result.get("budget_data", "No budget data found."))
+    print("\n=================================================================================\n==============Travel Planner Results =================")
+    # print("\n[Research Results]\n", result.get("research_data", "No research data found."))
+    # print("\n[Budget Estimate]\n", result.get("budget_data", "No budget data found."))
     print("\n[Final Plan]\n", result.get("final_plan", "No final plan generated."))
-    print("\n===============================\n")
+    print("\n==================================================================================\n")
 
     # Save results to file
     file_writer.write_plan(f"User Input: {user_input}\n\nResearch Results:\n{result.get('research_data', '')}\n\nBudget Estimate:\n{result.get('budget_data', '')}\n\nFinal Plan:\n{result.get('final_plan', '')}")
