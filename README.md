@@ -17,7 +17,7 @@ app/
 │   └── supervisor.py
 ├── tools/            # Utility tools (calculator, web search, file writer)
 │   ├── calculator.py
-│   ├── file_writer.py
+│   ├── TravelScript.py
 │   └── web_search.py
 ├── utils/            # Logging and helper utilities
 │   └── logger.py
@@ -61,7 +61,7 @@ app/
 1. Configure your trip parameters in `app/config/settings.py` and other config files as needed.
 2. Run the main application:
    ```bash
-   uv pip run python main.py
+   python main.py
    ```
 3. The system will output a detailed travel plan in `travel_plan.md`.
 
@@ -71,17 +71,6 @@ Edit `app/config/settings.py`:
 ENVIRONMENT = "development"
 DEBUG = True
 # Add your trip parameters here
-```
-
-### Sample Output
-Example content from `travel_plan.md`:
-```
-Destination: Paris, France
-Dates: 2025-08-01 to 2025-08-07
-Budget: $2000
-Accommodation: Hotel XYZ
-Transportation: Flight ABC123
-Activities: Louvre, Eiffel Tower, Seine River Cruise
 ```
 
 ## Security & Best Practices
