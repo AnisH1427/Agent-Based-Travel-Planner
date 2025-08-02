@@ -22,5 +22,5 @@ def research_agent(state):
 
     # Step 3: Return structured data
     new_state = {**state, "research_data": search_result}
-    # print("[ResearchAgent] Returning state:", new_state)
+    print("[ResearchAgent] Returning state:", new_state)
     return new_state
